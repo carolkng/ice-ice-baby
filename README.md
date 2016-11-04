@@ -1,8 +1,8 @@
-### ELEC 221 Final Project: Climate Change
+# ELEC 221 Final Project: Climate Change
 
 ## Outline of the outline ##
 
-# Useful functions
+### Useful functions
 
 * `VideoReader('videofile.mp4')`: Creates video object with name, duration, and frame rate
 * `readFrame(myVideo)`: reads frame from video as image
@@ -10,7 +10,7 @@
 * `imdata = imread('imagefile.png')`: reads imagefile.png data to imdata
 * `imshow(imdata)`: displays imdata
 
-# Questions to submit
+### Questions to submit
 
 0. (2+2) Total number of frames in video? Frame rate?
 1. (2+2+2) Size (# rows, columns) of data array of each frame? Pixel height, width of each frame? Number of bits per pixel in RGB image?
@@ -28,7 +28,7 @@
 13. (5) Are CSV data results compatible with calculations? If not, why?
 14. (4) Other more accurate techniques to extract info from NASA's video?
 
-# Figures to submit
+### Figures to submit
 
 1. (5) Display frame stamped with date "April X, 2014" in grayscale, where `X = mod(40,30) + 1`
 2. (5) Display frame from Figure 1 in black and white.
