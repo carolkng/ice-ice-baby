@@ -1,2 +1,5 @@
 .DS_STORE
 *.asv
+*.sublime-workspace
+*.sublime-project
+
