@@ -4,6 +4,7 @@ framesPath = '../media/frames/';
 grayPath = '../media/grayFrames/';
 bwPath = '../media/bwframes/';
 maskedPath = '../media/maskedFrames/';
+averagePath = '../media/averagedFrames/';
 
 startTime = 43.345;
 endTime = 56.7;
