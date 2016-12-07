@@ -2,7 +2,7 @@
 
 ### Project overview/purpose
 
-To try and estimate the extent to which the antarctic ice coverage changes throughout the year using image filtering and recognition techniques, and to compare the data that we obtain from our analysis of [NASA video data]() to actual measurements done by the [NSIDC]().
+To try and estimate the extent to which the antarctic ice coverage changes throughout the year using image filtering and recognition techniques, and to compare the data that we obtain from our analysis of [NASA video data](https://www.youtube.com/watch?v=J_WWXGGWZBF) to actual measurements done by the [NSIDC](http://nsidc.org/data/seaice_index/).
 
 ### Project structure/setup instructions
 
